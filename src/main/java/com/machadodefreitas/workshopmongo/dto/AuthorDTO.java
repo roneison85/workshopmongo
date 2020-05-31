@@ -34,5 +34,4 @@ public class AuthorDTO implements Serializable {
 		this.name = name;
 	}
 	
-	
 }
